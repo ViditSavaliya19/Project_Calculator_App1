@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_Calculator_App</string>
+    <string name="textEmi">P: is the loan amount or principal\nR: is the interest rate per month\nN: is the number of monthly installments</string>
+    <string name="textDesc">The formula can be calculated using either the flat-rate method or the reducing-balance method. The reducing-balance method calculates the interest payment based on the principal outstanding. This means the interest and principal repayment portions of each EMI change overtime</string>
+</resources>
